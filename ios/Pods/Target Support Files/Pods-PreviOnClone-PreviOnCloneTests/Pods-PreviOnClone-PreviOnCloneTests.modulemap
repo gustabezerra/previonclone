@@ -1,0 +1,6 @@
+module Pods_PreviOnClone_PreviOnCloneTests {
+  umbrella header "Pods-PreviOnClone-PreviOnCloneTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
